@@ -1,0 +1,11 @@
+com\barkha\jcart\entities\Product.class
+com\barkha\jcart\entities\Role.class
+com\barkha\jcart\entities\Permission.class
+com\barkha\jcart\entities\Address.class
+com\barkha\jcart\entities\Payment.class
+com\barkha\jcart\entities\Customer.class
+com\barkha\jcart\entities\OrderStatus.class
+com\barkha\jcart\entities\OrderItem.class
+com\barkha\jcart\entities\Category.class
+com\barkha\jcart\entities\Order.class
+com\barkha\jcart\entities\User.class
