@@ -1,4 +1,4 @@
-package com.amart.catalogservice.catalogservice;
+package com.amart.catalogservice;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
